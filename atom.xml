@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XD347.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-12T09:14:39.533Z</updated>
+    <updated>2020-06-12T15:41:33.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XD347.github.io"/>
     <link rel="self" href="https://XD347.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://XD347.github.io/images/avatar.png</logo>
     <icon>https://XD347.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[重庆之行——Day5]]></title>
+        <id>https://XD347.github.io/post/chong-qing-zhi-xing-day5/</id>
+        <link href="https://XD347.github.io/post/chong-qing-zhi-xing-day5/">
+        </link>
+        <updated>2020-06-12T15:37:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>高低错落，不仅给人以层次感，还会带来恐高感。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>高低错落，不仅给人以层次感，还会带来恐高感。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[修文之行——Day4(二)]]></title>
         <id>https://XD347.github.io/post/xiu-wen-zhi-xing-day4er/</id>
